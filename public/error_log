@@ -1,0 +1,1 @@
+[13-Oct-2022 13:40:50 Asia/Dhaka] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FormController::quizPost() in /home/quiz360/public_html/app/Http/Controllers/FormController.php on line 10263

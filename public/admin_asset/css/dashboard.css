@@ -1,0 +1,526 @@
+@media screen and (min-width: 700px) {
+    .dashboard-colmn-4 {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 540px) {}
+
+h3.qcreator {
+    font-weight: 700;
+    color: #24eba8;
+    font-size: 19px;
+    text-align: center;
+}
+
+.profile {
+    background-image: url(https://img.freepik.com/free-vector/colorful-confetti-background-with-text-space_1017-32374.jpg?w=826&t=st=1667300395~exp=1667300995~hmac=3ff0fa5e82b7fe6534363fc728176a61c77589ab45dfdd5926c3bd58cbd69527);
+    background-repeat: round;
+}
+
+h3.partihead {
+    font-weight: 700;
+    color: #fff;
+    font-size: 19px;
+    text-align: center;
+}
+
+.card.parcard.p-3 {
+    background: #23e7a5ba;
+}
+
+.btnqcreator {
+    display: block;
+    width: 100%;
+    background: #24eba8;
+    color: #fff!important;
+    font-size: 19px;
+    padding: 1px;
+    border: 0px;
+    border: 1px solid #fff;
+}
+
+.btnparti {
+    display: block;
+    width: 100%;
+    background: #fff;
+    color: #24eba8!important;
+    font-size: 19px;
+    padding: 1px;
+    border: 1px solid #24eba8;
+}
+
+div#basictopcard {
+    margin-bottom: 10rem;
+}
+
+
+/* top profile */
+
+.card.statprofile {
+    background: #ffffff1a;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border: 1px solid #332e2e73;
+    padding: 10px 0px;
+}
+
+.comb-bottom {
+    border-bottom: 1px solid #80808061;
+    margin-top: 10px;
+}
+
+.left-profile {
+    border-right: 1px solid #281a1a4f;
+    padding-right: 10px;
+}
+
+.com-i {
+    position: relative;
+    top: 5px;
+    left: 9px;
+    color: white;
+}
+
+.comround {
+    display: inline-table!important;
+    background: #24eba899;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.combg {
+    background-color: #24eba8!important;
+    color: #fff!important;
+}
+
+.combg2 {
+    background-color: #ff2072a6!important;
+    color: #fff;
+}
+
+.combg3 {
+    background-color: #3fb543f0!important;
+    color: #fff;
+}
+
+.btn.btn-sm.combg.text-white {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: 900 !important;
+    font-size: 14px;
+    margin-top: 18px;
+}
+
+
+/* sliders */
+
+.slideitem {
+    background: azure;
+    border: 1px solid #fff;
+    border-radius: 6px;
+    padding: 5px;
+    font-size: 11px;
+    margin: 6px;
+}
+
+
+/*top card */
+
+.cardtype.card.p-4 {
+    background-image: url(https://img.freepik.com/free-photo/red-black-brush-stroke-banner-background-perfect-canva_1361-3597.jpg?w=826&t=st=1667371391~exp=1667371991~hmac=b8bbfc6af859cce9cb3bb897d70d3fb30120e36c959da881427b129a488e5c96);
+    background-repeat: repeat-y;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.cardtype2.card.p-4 {
+    background-image: url('https://img.freepik.com/free-photo/paper-tears-texture-background_1409-1473.jpg?w=740&t=st=1667372302~exp=1667372902~hmac=3131d443b5a97a23e1155019c0dddd99059c4f61ae33456d9d3d2fb9426c3b82');
+    background-repeat: round;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.cardtype3.card.p-4 {
+    background-image: url('https://img.freepik.com/free-vector/modern-soft-blue-watercolor-texture-background_1035-22625.jpg?w=740&t=st=1667377364~exp=1667377964~hmac=5fab2dceebdb2675b6c72748f6a64b3c4489d315f4d219b32f7f6a1e458e1f91');
+    background-repeat: round;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+h1.upcomeh1 {
+    font-weight: 900;
+    font-size: 19px;
+    padding: 2px;
+    color: #fd3c3cd6!important;
+}
+
+h1.upcomeh1 {
+    font-weight: 900;
+    font-size: 19px;
+    padding: 2px;
+}
+
+.startbtn1 {
+    width: 33%;
+    background-color: rgb(255, 255, 255)!important;
+}
+
+.startbtn2 {
+    width: 33%;
+    background-color: rgb(255, 255, 255)!important;
+}
+
+.startbtn2 {
+    width: 33%;
+    background: #e98b6f6b!important;
+}
+
+.startbtn3 {
+    width: 33%;
+    background-color: rgb(255, 255, 255)!important;
+}
+
+
+/* sponser */
+
+.sponsername {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.sponsers {
+    margin-bottom: 50px;
+}
+
+.mobileround {
+    display: none !important;
+}
+
+.topoftheweek {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.modal {
+    padding: 0 !important; // override inline padding-right added from js
+}
+
+.modal .modal-dialog {
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    margin: 0;
+}
+
+.modal .modal-content {
+    height: 100%;
+    border: 0;
+    border-radius: 0;
+}
+
+.modal .modal-body {
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.card.upquiz {
+    background-color: #f0f8ff00;
+    border-radius: 5px;
+    border: 1px solid #48222270;
+}
+
+.card .card-header,
+.card-light .card-header {
+    padding: 1rem 1rem;
+    background-color: transparent;
+    border-bottom: 1px solid #adadad !important;
+}
+
+.main-header {
+    display: none !important;
+}
+
+.main-panel>.content {
+    padding: 0 !important;
+    min-height: calc(100% - 123px);
+    margin-top: 0px !important;
+    overflow: hidden;
+}
+
+.mobileround {
+    display: none;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    margin-bottom: 30px;
+    box-shadow: 0 0.46875rem 2.1875rem rgba(90, 97, 105, 0.1), 0 0.9375rem 1.40625rem rgba(90, 97, 105, 0.1), 0 0.25rem 0.53125rem rgba(90, 97, 105, 0.12), 0 0.125rem 0.1875rem rgba(90, 97, 105, 0.1);
+}
+
+.l-bg-cherry {
+    background: linear-gradient(to right, #493240, #f09) !important;
+    color: #fff;
+}
+
+.l-bg-blue-dark {
+    background: linear-gradient(to right, #373b44, #4286f4) !important;
+    color: #fff;
+}
+
+.l-bg-green-dark {
+    background: linear-gradient(to right, #0a504a, #38ef7d) !important;
+    color: #fff;
+}
+
+.l-bg-orange-dark {
+    background: linear-gradient(to right, #a86008, #ffba56) !important;
+    color: #fff;
+}
+
+.card .card-statistic-3 .card-icon-large .fas,
+.card .card-statistic-3 .card-icon-large .far,
+.card .card-statistic-3 .card-icon-large .fab,
+.card .card-statistic-3 .card-icon-large .fal {
+    font-size: 110px;
+}
+
+.card .card-statistic-3 .card-icon {
+    text-align: center;
+    line-height: 50px;
+    margin-left: 15px;
+    color: #000;
+    position: absolute;
+    right: -5px;
+    top: 20px;
+    opacity: 0.1;
+}
+
+.l-bg-cyan {
+    background: linear-gradient(135deg, #289cf5, #84c0ec) !important;
+    color: #fff;
+}
+
+.l-bg-green {
+    background: linear-gradient(135deg, #23bdb8 0%, #43e794 100%) !important;
+    color: #fff;
+}
+
+.l-bg-orange {
+    background: linear-gradient(to right, #f9900e, #ffba56) !important;
+    color: #fff;
+}
+
+.l-bg-cyan {
+    background: linear-gradient(135deg, #289cf5, #84c0ec) !important;
+    color: #fff;
+}
+
+.box h2 {
+    display: block;
+    text-align: center;
+    color: red;
+}
+
+.box {
+    margin-left: 32px;
+}
+
+.box .chart {
+    position: relative;
+    width: 100%;
+    font-size: 24px;
+    line-height: 81px;
+    height: 106px;
+    color: ;
+    font-weight: 900;
+}
+
+.box canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    width: 100%;
+}
+
+canvas {
+    width: 80px !important;
+    height: 80px !important;
+}
+
+span.percentage {
+    position: relative;
+    left: 20px;
+}
+
+.information {
+    margin-bottom: 7px;
+}
+
+.resultable {
+    border: none !important
+}
+
+button.btn.btn-large.btn-primary {
+    display: block;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.quiz-card {
+    padding: 15px;
+    border-radius: 6px;
+    background: #fff;
+}
+
+.call-btn {
+    border: 2px solid #33333321;
+    font-weight: 500;
+    padding: 4px 20px;
+    border-radius: 7px;
+}
+
+.mark-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    max-width: fit-content;
+}
+
+.mark-box {
+    padding: 15px 20px;
+    border: 1px solid #1de6f1;
+    border-radius: 11px;
+}
+
+.fa-ul {
+    line-height: 30px;
+}
+
+img.d-block.w-100 {
+    height: 200px;
+}
+
+.media-body {
+    margin-left: 30px;
+    margin-top: 8px;
+}
+
+.quiz_items {
+    margin-bottom: -53px;
+}
+
+button#upsubmit {
+    display: block;
+    width: 100%;
+}
+
+h1.toppos {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+h1.top {
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+h1.top.circle {
+    border-radius: 50%;
+    width: 34px;
+    height: 34px;
+    background: #fff;
+    border: 2px solid #2cd767;
+    text-align: center;
+    padding: 4px;
+}
+
+.marks {
+    font-size: 12px;
+    margin: 5px;
+}
+
+div#plane {
+    background: #13ab7aa8;
+    text-align: center;
+    height: 48px;
+    width: 48px;
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.iconitem {
+    font-size: 19px;
+    color: #fff;
+}
+
+a.iconhref {
+    text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 25%;
+}
+
+span.icontitle.text-decoration-none {
+    font-weight: 900;
+    font-size: 14px;
+    color: #00000094;
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    border-radius: 10%;
+}
+
+.percip.card {
+    height: 250px;
+}
+
+span.join {
+    font-size: 23px;
+    font-weight: 600;
+    color: #6e0707d6;
+}
+
+p.loremp {
+    line-height: 2rem;
+    color: #fff;
+    font-weight: 900;
+}
+
+.percip.card.bg-info.p-0.mt-5 {
+    margin-bottom: 10rem;
+}
+
+h1.itemname.text-center {
+    font-size: 18px;
+    font-weight: 900;
+    padding: 10px;
+}
+
+.card.topsimplecard {
+    background-color: #f25961;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    width: auto;
+}
+
+.btn.disabled,
+.btn:disabled {
+    opacity: 1;
+}
+
+button.btn.btn-text.btn-sm.text-white {
+    border-radius: 7px;
+}
+
+button.btn.btn-danger.btn-sm.text-white {
+    border-radius: 7px;
+}
+
+.card.topoftheweek {
+    border: 1px solid #2cd767;
+    border-radius: 20px;
+}
